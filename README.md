@@ -106,15 +106,6 @@ I transform raw data into meaningful insights and develop end-to-end modern appl
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yogeshsalve/yogeshsalve/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
